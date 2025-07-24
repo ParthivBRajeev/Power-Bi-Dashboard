@@ -19,13 +19,16 @@ Dataset
 - What are the total number of card and non card holders?
 - What are the total number of active and non active members?
   
-DASHBOARD Interaction <a href="https://github.com/ParthivBRajeev/Power-Bi-Dashboard/blob/main/Screenshot%202025-07-24%20103259.png">View Dashboard</a>
+## DASHBOARD Interaction <a href="https://github.com/ParthivBRajeev/Power-Bi-Dashboard/blob/main/Customer%20Churn%20Analysis.pbix">View Dashboard</a>
  
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created slicers according to the questions asked.
 - Merged all graphs into one dashboard and apply slicer to make dynamic
+
+## Dashboard
+<img width="975" height="543" alt="image" src="https://github.com/user-attachments/assets/27607807-9683-417e-8a3d-c16f15669e6d" />
 
 
 ## Project Insight
