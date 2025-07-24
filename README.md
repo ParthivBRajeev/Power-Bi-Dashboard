@@ -20,7 +20,7 @@ Dataset
 - What are the total number of active and non active members?
   
 # DASHBOARD
-<a href="https://github.com/ParthivBRajeev/Power-Bi-Dashboard/blob/main/Customer%20Churn%20Analysis.pbix">Dataset</a>
+<a href="https://github.com/ParthivBRajeev/Power-Bi-Dashboard/blob/main/Screenshot%202025-07-24%20103259.png">Dataset</a>
  
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
