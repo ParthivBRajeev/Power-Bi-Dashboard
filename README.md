@@ -9,7 +9,7 @@ The company wants to create a customer churn Analysis report from 2016-2019. So 
 Dataset
 <a href="https://github.com/ParthivBRajeev/Power-Bi-Dashboard/blob/main/Bank_Churn.csv">Dataset</a>
 
-##QUESTIONS (KPI)
+## QUESTIONS (KPI)
 - What is the total number of active members by month how does it compare to the previous month?
 - What is the total number of exited members by credit card type?
 - What is the toal count of exited customers compared to the same period last month or last year?
